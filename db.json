@@ -1,0 +1,80 @@
+{
+  "registered": [
+    {
+      "firstName": "Joe",
+      "lastName": "Doe",
+      "email": "test@test.com",
+      "mobile": 6304582636,
+      "weight": 55,
+      "height": 156,
+      "bmi": 0.002260026298487837,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-06-13T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Stoe",
+      "email": "test@test.com",
+      "mobile": 6302584221,
+      "weight": 53,
+      "height": 159,
+      "bmi": 0.0020964360587002098,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-06-14T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Tibi",
+      "lastName": "Oros",
+      "email": "tibi@test.com",
+      "mobile": 6302584124,
+      "weight": 94,
+      "height": 1.8,
+      "bmi": 29.012345679012345,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-14T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "Tibi",
+      "lastName": "Oros",
+      "email": "test@test.com",
+      "mobile": 6302547898,
+      "weight": 95,
+      "height": 1.74,
+      "bmi": 31.37798916633637,
+      "bmiResult": "Obese",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-14T22:00:00.000Z",
+      "id": 5
+    }
+  ]
+}
