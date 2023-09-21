@@ -1,10 +1,6 @@
 # Please follow these steps in command line:
-`npm install`
-`npm start`
- open your browser on localhost
- open new terminal:
-`json-server --watch db.json`
-refresh page to fill data
+`npm install`|`npm start`|open your browser on localhost|open new terminal| 
+`json-server --watch db.json`|refresh page to fill data
 
 # AngularProjectFitnessManager
 
