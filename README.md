@@ -2,7 +2,7 @@
 `npm install`
 `npm start`
  open your browser on localhost
-## open new terminal:
+ open new terminal:
 `json-server --watch db.json`
 refresh page to fill data
 
