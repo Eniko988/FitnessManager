@@ -75,6 +75,25 @@
       "haveGymBefore": "No",
       "enquiryDate": "2023-06-14T22:00:00.000Z",
       "id": 5
+    },
+    {
+      "firstName": "Ann",
+      "lastName": "Smith",
+      "email": "test@test.com",
+      "mobile": 6302549878,
+      "weight": 60,
+      "height": 170,
+      "bmi": 0.0020761245674740486,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-09-20T22:00:00.000Z",
+      "id": 6
     }
   ]
 }

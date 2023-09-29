@@ -22,7 +22,6 @@ ngOnInit(): void {
       console.log(val)
       this.userID = val['id'];
       this.fetchUserDetails(this.userID);
-      console.log(this.userID)
     })
   }
 
@@ -30,10 +29,6 @@ ngOnInit(): void {
     this.api.getRegisteredUserById(this.userID)
     .subscribe(res => {
       this.userDetails = res;
-      console.log(this.userDetails)
     })
   }
-  
-
-
 }

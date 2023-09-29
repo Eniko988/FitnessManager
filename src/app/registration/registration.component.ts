@@ -133,5 +133,4 @@ switch (true) {
     enquiryDate: user.enquiryDate
    })
   }
-
 }

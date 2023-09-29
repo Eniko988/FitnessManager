@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+html {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-image: url("../assets/gym.jpg");
+  margin: 0px;
+  min-height: 100%;
+  width: 100%;
+}/*# sourceMappingURL=styles.css.map */

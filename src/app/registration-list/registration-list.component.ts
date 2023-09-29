@@ -60,10 +60,6 @@ delete(id:number){
       this.getUsers();
     })
   },
-  () =>{
-
-  })
- 
+  () =>{})
 }
-
 }
