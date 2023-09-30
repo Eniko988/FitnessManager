@@ -124,8 +124,8 @@
         </div>
   
       </div>
-      <button *ngIf="!isUpdateActive" (click)="submit()" class="mt-4" mat-raised-button color="accent">Submit</button>
-      <button *ngIf="isUpdateActive" (click)="update()" class="mt-4" mat-raised-button color="accent">Update</button>
+      <button *ngIf="!isUpdateActive" (click)="submit()" class="mt-4" mat-raised-button class="submit-btn">Submit</button>
+      <button *ngIf="isUpdateActive" (click)="update()" class="mt-4" mat-raised-button class="update-btn">Update</button>
     </form>
   </div>
   

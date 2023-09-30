@@ -1,6 +1,8 @@
 mat-form-field{
-    width: 100%
+    width: 100%;
+  
 }
+
 
 .example-radio-group {
     display: flex;
@@ -12,3 +14,10 @@ mat-form-field{
   .example-radio-button {
     margin: 5px;
   }
+
+  .update-btn,.submit-btn{
+    color: #f0fff3; 
+    background-color: #4188FF;
+  }
+  
+
